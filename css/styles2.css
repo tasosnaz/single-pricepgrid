@@ -79,6 +79,10 @@ section {
 
 /** REFERNCES **/
 
+.section-zero {
+  margin-bottom: 20px;
+}
+
 .section-one {
   background-color:  hsl(179, 62%, 43%);
 }
