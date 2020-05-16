@@ -121,7 +121,9 @@ span {
  margin: 5px;
 }
 
-
+.full-access {
+  font-size: 17px;
+}	
 
 .myButton {
 	background:linear-gradient(to bottom, #c0df34 5%, #c0df34 100%);
@@ -133,7 +135,7 @@ span {
 	font-family:'Karla-bold' sans-serif;
   font-weight: 700;
 	font-size:18px;
-	padding:15px 90px;
+	padding:15px 94px;
 	text-decoration:none;
   margin-top: 12px;
 }
